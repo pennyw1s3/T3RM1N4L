@@ -1,5 +1,5 @@
 # T3RM1N4L
-![1](
+![1](https://github.com/pennyw1s3/T3RM1N4L/blob/master/terminal.png)
 # Toos ini Di gunakan untuk Meng install Terminal lain di dalam termux
 # Bisa juga untuk mendapatkan akses root di termux, Tanpa Root Hp Lu
 # Pitur
@@ -16,6 +16,14 @@
 * 11.{Arch Linux}
 * 12.{Black Arch}
 * 13.{Alpine}
+# Command
+* `pkg update && pkg upgrade`
+* `pkg install bash`
+* `pkg install git`
+* `git clone https://github.com/pennyw1s3/T3RM1N4L`
+* `cd T3RM1N4L`
+* `chmod +x *`
+* `sh T3rm1n4l.sh`
 # Jangan lupa follow akun Github Gw
 [Github](https://github.com/pennyw1s3)
 # Chat Gw Via Whatsapp
